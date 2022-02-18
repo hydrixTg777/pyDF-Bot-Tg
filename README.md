@@ -1,5 +1,5 @@
 
-# pyDF-Bot
+# pyDF-Bot 🌍
 Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools using PyPdf2
  Fork , Contribute, Move on
 
